@@ -16,6 +16,7 @@ $ npm install dva-logger --save
 ## Usage
 
 ```javascript
+test
 import createLogger from 'dva-logger';
 
 const app = dva();
